@@ -1,7 +1,7 @@
 {
     "name": "os2forms/os2forms_egir_profile",
     "type": "drupal-profile",
-    "description": "This profile adds the configuration and initial install of OS2forms 2.1 med Forløb.",
+    "description": "This profile adds the configuration and initial install of OS2forms 2.1 med Forløb as well as the EGIR integration.",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "license": "EUPL-1.2",

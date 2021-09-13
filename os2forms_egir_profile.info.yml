@@ -107,7 +107,6 @@ install:
   - maestro_utilities
   - maestro_webform
   - masquerade
-  - memcache
   - os2web_simplesaml
   - rules
   - rules_token
@@ -117,6 +116,7 @@ install:
 
 # OS2forms_egir
   - keycloak
+  - memcache
 
 # List any themes that should be installed as part of the profile installation.
 # Note that this will not set any theme as the default theme.

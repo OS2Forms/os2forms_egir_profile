@@ -107,6 +107,7 @@ install:
   - maestro_utilities
   - maestro_webform
   - masquerade
+  - memcache
   - os2web_simplesaml
   - rules
   - rules_token

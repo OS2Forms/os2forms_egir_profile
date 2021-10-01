@@ -1,6 +1,6 @@
 name: os2forms_egir_profile
 type: profile
-description: 'Installation profile for os2forms_forloeb'
+description: 'Installation profile for os2forms_egir'
 core_version_requirement: '^8.9 || ^9'
 langcode: da
 

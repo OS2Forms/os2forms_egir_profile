@@ -29,7 +29,7 @@
         "drush/config-extra": "^1.0",
         "drush/drush": "^10.4",
         "os2forms/os2forms": "^2.6",
-        "os2forms/os2forms_egir": "dev-main",
+        "os2forms/os2forms_egir": "dev-44120_move_many_externals",
         "os2web/os2web_simplesaml": "8.x-dev"
     }
 }

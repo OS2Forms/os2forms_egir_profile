@@ -18,9 +18,6 @@
     "require": {
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^3.0",
-        "drupal/core-composer-scaffold": "^9",
-        "drupal/core-project-message": "^9",
-        "drupal/core-recommended": "^9",
         "drupal/keycloak": "^1.5",
         "drupal/memcache": "^2.3",
         "drupal/permissions_by_term": "2.25",

@@ -28,7 +28,7 @@
         "drush/config-extra": "^1.0",
         "drush/drush": "^10.4",
         "os2forms/os2forms": "^2.6",
-        "os2forms/os2forms_egir": "^1.1.0",
+        "os2forms/os2forms_egir": "dev-remove_rules_from_egir",
         "os2web/os2web_simplesaml": "8.x-dev"
     }
 }

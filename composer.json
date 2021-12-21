@@ -21,11 +21,11 @@
         "drupal/core-recommended": "^8 || ^9",
         "drupal/keycloak": "^1.5",
         "drupal/memcache": "^2.3",
-        "drupal/permissions_by_term": "2.25",
+        "drupal/permissions_by_term": "^3.1",
         "drupal/taxonomy_menu": "^3.4",
         "drush/config-extra": "^1.0",
         "drush/drush": "^10.4",
-        "os2forms/os2forms": "^2.8",
+        "os2forms/os2forms": "^3.0",
         "os2forms/os2forms_egir": "^1.2",
         "os2web/os2web_simplesaml": "8.x-dev"
     }
